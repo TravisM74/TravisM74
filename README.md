@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Metropolias Unity Introduction Course (5- ov's)
 - 🌱 I’m currently learning Unity and C#
+- Recently Completed Unity Learn  Junior Programmer https://learn.unity.com/pathway/junior-programmer
 - 📫 How to reach me: www.linkedin.com/in/travis-mouna-63a1a3266
 
   

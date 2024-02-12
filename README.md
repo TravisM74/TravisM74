@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Metropolias Unist Introduction Course (5- ov's)
+- 🔭 I’m currently working on Metropolias Unity Introduction Course (5- ov's)
 - 🌱 I’m currently learning Unity and C#
 - 📫 How to reach me: www.linkedin.com/in/travis-mouna-63a1a3266
 

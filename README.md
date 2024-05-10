@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working onFreeCodeCamp Course JavaScript
+- 🔭 I’m currently working on FreeCodeCamp Course JavaScript
 - 🌱 I’m currently learning JavaScript HTML CSS
 - Recently Completed Unity Learn  Junior Programmer https://learn.unity.com/pathway/junior-programmer
 - 📫 How to reach me: www.linkedin.com/in/travis-mouna-63a1a3266
